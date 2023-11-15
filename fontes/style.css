@@ -1,0 +1,17 @@
+body             { font-family: TAHOMA, Arial, sans-serif; font-size: 14px; color:black; }
+body.navajowhite { background-color:#FFDEAD; }
+body.white       { background-color:#FFFFFF; }
+vermelhoforte    {  font-size: 18px; color:red; font-weight:bold; }
+button           { background-color:transparent;
+                   font-family: TAHOMA, Arial, sans-serif; font-size:16px;
+                   color:black;
+                   text-align:center;
+                   border: none;
+                   padding:0px 10px 0px 10px;
+                   margin:7px -3px -3px -3px;
+                   width:85px; height:23px;
+                   cursor:pointer;
+                   border-radius: 10px 10px 0px 0px; }
+table,td         { border:none; font-family:Lucida Sans Typewriter; font-size:12px; }
+table.borda      { border:1px solid black; border-collapse: collapse; }
+td.borda         { border:1px solid black; border-collapse: collapse; vertical-align: text-top; }
