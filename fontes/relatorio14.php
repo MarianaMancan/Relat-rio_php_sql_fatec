@@ -12,7 +12,7 @@ switch (TRUE)
   case ( $bloco==1 ):
   { # este bloco monta o form e passa o bloco para o valor 2 em modo oculto
   printf("Tendo duas datas referenciais elabore um relatório que apresente um resumo dos produtos comprados pelos clientes totalizando os valores e as quantidades de cada produto.<hr>\n");
-    printf(" <form action='./relatorio11.php' method='post'>\n");
+    printf(" <form action='./relatorio14.php' method='post'>\n");
     printf("  <input type='hidden' name='bloco' value=2>\n");
     printf("  <input type='hidden' name='sair' value='$sair'>\n");
     printf("  <table>\n");
